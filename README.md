@@ -76,9 +76,9 @@
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| 🌐 **[Metro Ethernet & MPLS L3VPN Simulator](https://github.com/lebao1942005-tech/Metro-Ethernet-MPLS-Simulator)** | Mô phỏng mạng MAN tích hợp MPLS, giải quyết kết nối đa chi nhánh với line-rate, hội tụ < 1s (BFD, SPF Throttling) và bảo mật L3VPN | `Mininet` `FRRouting` `Python` `Open vSwitch` |
-| 🛡️ **[Phishing Web Detection using ML](https://github.com/lebao1942005-tech/Phishing-Detection-ML)** | Hệ thống phát hiện phishing real-time, trích xuất 16 đặc trưng URL, Random Forest (~87% accuracy) + Chrome Extension cảnh báo | `Python` `Flask` `Scikit-learn` `Chrome Extension` |
-| 🏢 **[Smart Office Enterprise Network](https://github.com/lebao1942005-tech/smart-office-enterprise-network)** | Thiết kế mạng doanh nghiệp Smart Office: Collapsed Core, Dual-Homed WAN (OSPF), VLAN Zero-Trust, tự động hóa IoT bằng Python | `Cisco Packet Tracer` `OSPF` `VLAN/ACL` `Python` |
+| 🌐 **[Metro Ethernet & MPLS L3VPN Simulator](https://github.com/lebao1942005-tech/Metro-Ethernet-MPLS-Simulator)** | Simulated a Metro Ethernet MAN integrated with MPLS, solving multi-branch connectivity with line-rate throughput, sub-1s convergence (BFD, SPF Throttling), and secure L3VPN | `Mininet` `FRRouting` `Python` `Open vSwitch` |
+| 🛡️ **[Phishing Web Detection using ML](https://github.com/lebao1942005-tech/Phishing-Detection-ML)** | Real-time phishing detection system extracting 16 URL features, powered by a Random Forest model (~87% accuracy) and a Chrome Extension for live warnings | `Python` `Flask` `Scikit-learn` `Chrome Extension` |
+| 🏢 **[Smart Office Enterprise Network](https://github.com/lebao1942005-tech/smart-office-enterprise-network)** | Designed a Smart Office enterprise network with Collapsed Core, Dual-Homed WAN (OSPF), Zero-Trust VLAN segmentation, and Python-based IoT automation | `Cisco Packet Tracer` `OSPF` `VLAN/ACL` `Python` |
 
 ---
 
