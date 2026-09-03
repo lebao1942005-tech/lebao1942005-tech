@@ -69,6 +69,20 @@
 ---
 
 <!-- ====================================================== -->
+<!--                      PROJECTS                          -->
+<!-- ====================================================== -->
+
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🌐 **[Metro Ethernet & MPLS L3VPN Simulator](https://github.com/lebao1942005-tech/Metro-Ethernet-MPLS-Simulator)** | Mô phỏng mạng MAN tích hợp MPLS, giải quyết kết nối đa chi nhánh với line-rate, hội tụ < 1s (BFD, SPF Throttling) và bảo mật L3VPN | `Mininet` `FRRouting` `Python` `Open vSwitch` |
+| 🛡️ **[Phishing Web Detection using ML](https://github.com/lebao1942005-tech/Phishing-Detection-ML)** | Hệ thống phát hiện phishing real-time, trích xuất 16 đặc trưng URL, Random Forest (~87% accuracy) + Chrome Extension cảnh báo | `Python` `Flask` `Scikit-learn` `Chrome Extension` |
+| 🏢 **[Smart Office Enterprise Network](https://github.com/lebao1942005-tech/smart-office-enterprise-network)** | Thiết kế mạng doanh nghiệp Smart Office: Collapsed Core, Dual-Homed WAN (OSPF), VLAN Zero-Trust, tự động hóa IoT bằng Python | `Cisco Packet Tracer` `OSPF` `VLAN/ACL` `Python` |
+
+---
+
+<!-- ====================================================== -->
 <!--                 CURRENTLY LEARNING                     -->
 <!-- ====================================================== -->
 
